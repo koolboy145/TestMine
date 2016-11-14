@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMineApp", "TestMineApp\TestMineApp.csproj", "{00827BE7-AAA5-48D6-8961-15202B9CA450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMineApp.Tests", "TestMineApp.Tests\TestMineApp.Tests.csproj", "{7B6A7734-E4BB-485B-AA68-142F8E0DFB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00827BE7-AAA5-48D6-8961-15202B9CA450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00827BE7-AAA5-48D6-8961-15202B9CA450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00827BE7-AAA5-48D6-8961-15202B9CA450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00827BE7-AAA5-48D6-8961-15202B9CA450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6A7734-E4BB-485B-AA68-142F8E0DFB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6A7734-E4BB-485B-AA68-142F8E0DFB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6A7734-E4BB-485B-AA68-142F8E0DFB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6A7734-E4BB-485B-AA68-142F8E0DFB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
